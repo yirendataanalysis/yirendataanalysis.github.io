@@ -4,17 +4,37 @@ baseurl: '' #change it according to your repository name
 
 # Profile information
 yourname: Yi Ren  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+title: 'RESEARCHER &amp; DATA SCIENTIST'  ## your title
 location: Houston, TX
+email: yiren.chn@gmail.com
+phone: 713-820-8964
+resume: "/assets/Yi-Ren-Resume.pdf"
+about : "text"
+image: "/assets/images/img/front.jpg"
 
 github: [metadata]
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com/in/YiRenDataAnalysis    ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
-github: https://github.com/yirendataanalysis/
+social:
+    # - icon: fa-facebook
+    #   link: "#"
+    # - icon: fa-twitter
+    #   link: "#"
+    - icon: fa-linkedin
+      link: "http://www.linkedin.com/in/YiRenDataAnalysis"
+    - icon: fa-github
+      link: "https://github.com/yirendataanalysis"
+    # - icon: fa-dribbble
+    #   link: "#"
+    # - icon: fa-foursquare
+    #   link: "#"
+
+socail:
+  #facebook: http://www.facebook.com  ## your facebook account url
+  #twitter: http://www.twitter.com  ## your twitter account url
+  linkedin: http://www.linkedin.com/in/YiRenDataAnalysis    ## your linkedin account url
+  #dribbble: http://www.dribble.com  ## you dribbble account url
+  #foursquare: http://www.foursquare.com  ## your foursquare account url
+  #github: https://github.com/yirendataanalysis/
 
 # Update all the sections by editing the files inside _includes folder.
