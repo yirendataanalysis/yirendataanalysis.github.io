@@ -9,7 +9,7 @@ location: Houston, TX
 email: yiren.chn@gmail.com
 phone: 713-820-8964
 resume: "/assets/Yi-Ren-Resume.pdf"
-about : "text"
+about : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac risus nibh. Donec adipiscing luctus tur"
 image: "/assets/images/img/front.jpg"
 
 github: [metadata]
@@ -28,13 +28,3 @@ social:
     #   link: "#"
     # - icon: fa-foursquare
     #   link: "#"
-
-socail:
-  #facebook: http://www.facebook.com  ## your facebook account url
-  #twitter: http://www.twitter.com  ## your twitter account url
-  linkedin: http://www.linkedin.com/in/YiRenDataAnalysis    ## your linkedin account url
-  #dribbble: http://www.dribble.com  ## you dribbble account url
-  #foursquare: http://www.foursquare.com  ## your foursquare account url
-  #github: https://github.com/yirendataanalysis/
-
-# Update all the sections by editing the files inside _includes folder.
